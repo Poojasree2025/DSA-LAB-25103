@@ -1,5 +1,5 @@
 class Stack:
-
+#poojasree av.sc.u4cse25103
     def __init__(self, size):
         self.size = size
         self.stack = [None] * size
